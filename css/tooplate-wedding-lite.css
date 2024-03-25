@@ -406,7 +406,8 @@ strong {
 -----------------------------------------*/
 .hero-container {
   background-color: #d9d8d6;
-  background-image: url('../newimage/360_F_498911032_MLKqRbYaNvLXK2e0c9qsTJNsOqKFevfm.jpg');
+  background-image: url('../newimage/alicia-quan-kBybHJ3CEWI-unsplash.jpg');
+  /* filter: blur(8px); */
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: var(--border-radius-small);
@@ -414,6 +415,7 @@ strong {
   overflow: hidden;
   padding: 50px;
   height: calc(90vh - 98px);
+  
 }
 
 .hero-container h2 {
